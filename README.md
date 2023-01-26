@@ -70,6 +70,8 @@ print(list_of_nums)
 ```
 
 ## Output:
+![image](https://user-images.githubusercontent.com/121215786/214850436-d1031a6b-34b4-4d92-8275-142470108923.png)
+
 
 
 ## Result:
